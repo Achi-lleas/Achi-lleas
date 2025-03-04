@@ -1,6 +1,6 @@
-I’m @Achi-lleas
-I'm interested in bioinformatics, computational biology, biostatistics and protein engineering
-You can contact me at thom8826@umn.edu
+-I’m @Achi-lleas
+-I'm interested in bioinformatics, computational biology, biostatistics and protein engineering
+-You can contact me at thom8826@umn.edu
 
 
 <!---
